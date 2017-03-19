@@ -1,0 +1,33 @@
+{
+	"count": 3,
+	"akcesoria": [{
+		"id": "1",
+		"producent": "Samsung",
+		"procesor": "Intel Core i5 2500K",
+		"plyta_glowna": " chipset P67",
+		"pamiec_ram": "8 GB",
+		"karta_graficzna": "Radeon HD 6950",
+		"dysk_twardy": "1 TB oraz prędkości 7200 obr./min"
+
+		
+	}, {
+		"id": "2",
+		"producent": "Sony",
+		"procesor": "Core i5",
+		"plyta_glowna": " chipset P67",
+		"pamiec_ram": "4 GB",
+		"karta_graficzna": "GeForce GT540M",
+		"dysk_twardy": "15 TB oraz prędkości 7000 obr./min"
+
+		
+	}, {
+		"id": "3",
+		"producent": "The Pioneer Woman",
+		"procesor": "Intel Core i3 2130",
+		"plyta_glowna": "wyposażona w interfejs USB 3.0 oraz chipset P67",
+		"pamiec_ram": "6 GB",
+		"karta_graficzna": "Radeon HD 5650",
+		"dysk_twardy": "2 TB oraz prędkości 4200 obr./min"
+	} 
+	]
+}
