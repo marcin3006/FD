@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Computer store</title>
+    <h1><center>..:: Spis części komputerowych ::..</center></h1>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+     <!--Latest compiled JavaScript 
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
+    
+   
+    <script src="my_script.js"></script>
+    
+</head>
+<!-- ////////////////////////////////////////////////////////-->
+<body>
+    <p><center>Wpisz własne podzespoły komputerowe :</center></p>
+        <form id ="forma">
+        Producent:<input type = "text" name ="producent" id="producent"/>
+        Procesor:<input type = "text" name ="procesor" id="procesor"/>
+        Płyta główna:<input type = "text" name ="plGlowna" id="plGlowna"/>
+        Pamięć RAM:<input type = "text" name ="pRam" id="pRam"/>
+        Karta graficzna:<input type = "text" name ="krGraf" id="krGraf"/>
+        Dysk Twardy:<input type = "text" name ="dyTwardy" id="dyTwardy"/>
+        </form>
+        <br></br>
+        <center><button onclick="addOwnOrder();">Dodaj własne podzespoły</button></center>
+        <center><input type="button" onclick="resetOwnOrder()" value="Reset"></center>
+        <p><center>Zestawy komputerowe wcześniej skonfigurowane : </center></p>
+    
+    
+    <div class="container">
+        <div id="table"></div>
+        <button onclick="myContact()">Kontakty</button>
+    </div>
+    </body>
+</html>

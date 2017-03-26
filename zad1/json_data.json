@@ -1,0 +1,51 @@
+{
+	
+	"computer": [{
+		
+		"producer": "Samsung",
+		"procesor": "Intel Core i5 2500K",
+		"mainboard": " chipset P67",
+		"ram": "8 GB",
+		"graphics_card": "Radeon HD 6950",
+		"hard_disk": "1 TB oraz prędkości 7200 obr./min"
+
+		
+	}, {
+		
+		"producer": "Sony",
+		"procesor": "Core i5",
+		"mainboard": " chipset P67",
+		"ram": "4 GB",
+		"graphics_card": "GeForce GT540M",
+		"hard_disk": "15 TB oraz prędkości 7000 obr./min"
+
+		
+	}, {
+		
+		"producer": "Samsung",
+		"procesor": "Intel Core i3 2130",
+		"mainboard": "wyposażona w interfejs USB 3.0 oraz chipset P67",
+		"ram": "6 GB",
+		"graphics_card": "Radeon HD 5650",
+		"hard_disk": "2 TB oraz prędkości 4200 obr./min"
+	} ,
+	{
+		
+		"producer": "Samsung",
+		"procesor": "Intel Core i3 2130",
+		"mainboard": "wyposażona w interfejs USB 3.0 oraz chipset P67",
+		"ram": "6 GB",
+		"graphics_card": "Radeon HD 5650",
+		"hard_disk": "2 TB oraz prędkości 4200 obr./min"
+	} ,
+	{
+		
+		"producer": "Samsung",
+		"procesor": "Intel Core i3 2130",
+		"mainboard": "wyposażona w interfejs USB 3.0 oraz chipset P67",
+		"ram": "6 GB",
+		"graphics_card": "Radeon HD 5650",
+		"hard_disk": "2 TB oraz prędkości 4200 obr./min"
+	} 
+	]
+}
